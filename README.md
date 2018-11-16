@@ -1,4 +1,4 @@
-# vuestagram
+# Vue.js + TypeScript で インスタグラムクローンアプリ
 
 ## これ何？
 
